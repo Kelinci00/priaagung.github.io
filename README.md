@@ -38,6 +38,7 @@
                     G20 pada awalnya merupakan pertemuan Menteri Keuangan dan Gubernur Bank Sentral. Namun sejak 2008, G20 menghadirkan Kepala Negara dalam KTT dan pada 2010 dibentuk pula pembahasan di sektor pembangunan. Sejak saat itu G20 terdiri atas Jalur Keuangan (Finance Track) dan Jalur Sherpa (Sherpa Track). Sherpa diambil dari istilah untuk pemandu di Nepal, menggambarkan bagaimana para Sherpa G20 membuka jalan menuju KTT (Summit).</p>
             </div>
         </div>
+        <img src="G20.jpg" >
     </main>
 
     <footer class="text-center container bg-primary text-white">
